@@ -1,0 +1,28 @@
+#container{
+    width: 800px;
+    margin:50px;
+}
+
+#main{
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+#nuotrauka{
+    width: 180px;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+.itemBar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: burlywood;
+}
+
+.nuotraukos{
+    width: 180px;
+    padding:10px;
+}
